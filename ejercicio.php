@@ -9,6 +9,12 @@
     <script src='main.js'></script>
 </head>
 <body>
+    <form>
+        Usuario:<input type="text" name="nombre"><br>
+        Contraseña:<input type="password" name="contrasena"><br>
+        <input type="submit" value="ENVIAR">
+        
+    </form>
     
 </body>
 </html>
