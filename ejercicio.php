@@ -9,6 +9,7 @@
     <script src='main.js'></script>
 </head>
 <body>
+<<<<<<< HEAD
     <?php
         echo "<h1>Ejercicio por parejas en Git Hub.</h1>";
         echo "<p>To Do List.<p>";
@@ -17,6 +18,14 @@
         echo "<li>Hacer proyectos PHP.</li>";
         echo "</ul>;"
     ?>
+=======
+    <form>
+        Usuario:<input type="text" name="nombre"><br>
+        Contraseña:<input type="password" name="contrasena"><br>
+        <input type="submit" value="ENVIAR">
+        
+    </form>
+>>>>>>> 8da42a23a27b5581c15f7d9d135f8c6663e1db42
     
 </body>
 </html>
